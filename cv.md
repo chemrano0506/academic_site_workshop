@@ -3,17 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral FellowPostdoctoral Fellow RTI International
 
 ## Education
 
-`1990 - 1994`
+`2015 - 1994`
 __University Name__
 Degree Awarded
 
 `1995 - 1997`
 __University Name__
 Degree Awarded 
+
+`2010 - 2013`
+__College of The Bahamas__
+3-Years Coursework
 
 ## Awards
 
