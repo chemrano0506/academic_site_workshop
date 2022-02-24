@@ -3,17 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Postdoctoral FellowPostdoctoral Fellow RTI International
+Postdoctoral Fellow RTI International
 
 ## Education
 
-`2015 - 1994`
-__University Name__
-Degree Awarded
+`2019 - 2022`
+__Mississippi State University__
+Doctor of Philosophy
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - 2019`
+__Mississippi State University__
+Master of Science
+
+`2013 - 2015`
+__Mississippi Valley State University__
+Bachelor of Science
 
 `2010 - 2013`
 __College of The Bahamas__
