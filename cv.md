@@ -26,8 +26,15 @@ __College of The Bahamas__
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Colgate Poster Session Winner, NOBCChE Conference, St Louis, MO
+
+`2019`
+Donald Zacharias Graduate Teaching Assistant of the Year, Mississippi State University
+
+`2015`
+Summa Cum Laude, School of Natural Sciences & Environmental Health Science, Missisippi Valley State University
+
 
 ## Publications
 
