@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jerrano Bowleg 
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "Dedicated interdisciplinary researcher specializing in computational chemistry, biophysics, and drug development."
   email: jerranolbowleg@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: laderast
-  linkedin: #username
-  github: laderast
+  linkedin: https://www.linkedin.com/in/jerranobowleg/  
+  github: https://github.com/chemrano0506  
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
