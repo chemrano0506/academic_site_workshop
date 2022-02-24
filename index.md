@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a Posdoctoral Fellow in the Center for Drug Discovery Research Triangle Institute International (RTI).
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Computational Chemistry (MD/QM/MM)
+- Biophysics
+- Drug Discovery 
